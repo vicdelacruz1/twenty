@@ -70,3 +70,6 @@ do{
     }else {
         alert("Carry on");
     }
+
+
+// Testing remote upload to GitHub
